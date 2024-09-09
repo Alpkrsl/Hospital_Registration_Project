@@ -11,7 +11,7 @@ namespace Proje_Hastane
     {
         public SqlConnection baglanti()
         {
-            SqlConnection baglan = new SqlConnection("Data Source=LAPTOP-HMITB4AP\\;Initial Catalog=HASTANEPROJE;Integrated Security=True");
+          
             baglan.Open();
             return baglan;
         }
