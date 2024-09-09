@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|c:\\users\\user\\source\\repos\\proje_hastane\\proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\user\\source\\repos\\Proje_Hastane\\proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\user\\source\\repos\\Proje_Hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\user\\source\\repos\\Proje_Hastane\\proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\user\\source\\repos\\Proje_Hastane\\proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\user\\source\\repos\\Proje_Hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9938E611-C75F-4B1D-9E59-C9932F791F29}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSekreterDetay.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterDetay.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmSekreterDetay.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAowDEBAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:03:39.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDoktorDetay.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:39:41.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDuyurular.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDuyurular.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDuyurular.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAASwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:58:53.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDuyurular.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDuyurular.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDuyurular.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:57:37.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDoktorDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:39:35.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSekreterDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterDetay.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmSekreterDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:31:58.612Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
